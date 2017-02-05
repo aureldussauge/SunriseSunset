@@ -13,7 +13,7 @@ public sealed class Sunriset
 	private const double AstronomicalTwilightAltitude = -18d;
 
 	/// <summary>
-	/// Compute sunrise/sunset times 
+	/// Compute sunrise/sunset times UTC
 	/// </summary>
 	/// <param name="year">The year</param>
 	/// <param name="month">The month of year</param>
@@ -28,7 +28,7 @@ public sealed class Sunriset
 	}
 
 	/// <summary>
-	/// Compute civil twilight times 
+	/// Compute civil twilight times UTC
 	/// </summary>
 	/// <param name="year">The year</param>
 	/// <param name="month">The month of year</param>
@@ -43,7 +43,7 @@ public sealed class Sunriset
 	}
 
 	/// <summary>
-	/// Compute nautical twilight times 
+	/// Compute nautical twilight times UTC
 	/// </summary>
 	/// <param name="year">The year</param>
 	/// <param name="month">The month of year</param>
@@ -58,7 +58,7 @@ public sealed class Sunriset
 	}
 
 	/// <summary>
-	/// Compute astronomical twilight times  
+	/// Compute astronomical twilight times UTC
 	/// </summary>
 	/// <param name="year">The year</param>
 	/// <param name="month">The month of year</param>
