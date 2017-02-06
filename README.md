@@ -2,7 +2,7 @@ Sunrise Sunset
 ==============
 
 This is a short C# file for calculating sunrise/sunset/twilight times (UTC), on a given day, at a given position.
-This is the C# implementation of [Paul Schlyter's sunriset.c](stjarnhimlen.se/comp/sunriset.c).
+This is the C# implementation of [Paul Schlyter's sunriset.c](http://stjarnhimlen.se/comp/sunriset.c).
 
 Getting started
 ---------------
